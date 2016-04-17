@@ -1,0 +1,28 @@
+name: TEAM Warrior Within
+favicon: null
+layout_spectrum: 0.17011894728057086
+typography_spectrum: 0.103470099857077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6081723417155445
+  lightness: 0.3255471175070852
+  saturation: 0.7664704781491309
+  rhythmicContrast: 0.4396944565232843
+purpose: []
